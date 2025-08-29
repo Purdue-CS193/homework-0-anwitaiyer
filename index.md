@@ -8,13 +8,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-# Hi, I'm Anwita!
-## a first year Data Science student at Purdue
-### Some of my hobbies are...
+# Anwita's First CS193 Homework
+## My favorite things about CS 193 are..
+- **the helpful instructors**
+- *the valuable programming skills they will teach us*
+- <ins>the enthusiatic students</ins>
 
-- **reading**
-- *biking*
-- <ins>and working out!</ins>
+
 
 ```markdown
 Syntax highlighted code block
