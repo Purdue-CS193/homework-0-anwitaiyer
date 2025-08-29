@@ -12,9 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ## a first year Data Science student at Purdue
 ### Some of my hobbies are...
 
-- ** reading **
-- * biking *
-- <ins>and working out</ins>
+- **reading**
+- *biking*
+- <ins>and working out!</ins>
 
 ```markdown
 Syntax highlighted code block
